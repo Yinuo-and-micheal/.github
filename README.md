@@ -34,6 +34,4 @@ Please explore our repositories and contribution guidelines to get involved.
 
 Organization is built on the principles of openness, respect, and continuous improvement. We strive to create an inclusive environment where developers can learn, collaborate, and build meaningful software together.
 
----
-
 **Building reliable open-source software through collaboration, innovation, and transparency.**
